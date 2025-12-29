@@ -5,7 +5,7 @@
 Kubernetes 설치 자동화와 솔루션 패키징을 수행하며 고객사 환경에 직접 설치/검증하는 업무를 하는 2년차 DevOps입니다.<br>
 모든 경험은 자산이라는 생각으로 기록하여 문서로 정리하는 과정을 좋아하고, 발생한 문제를 동료들과 함께 고민하며 해결해 나갈 때 가장 큰 성취감을 느낍니다.
 <br>
-
+<br>
 
 ##  🔧 기술
 ### Orchestration / GitOps
@@ -23,8 +23,8 @@ Kubernetes 설치 자동화와 솔루션 패키징을 수행하며 고객사 환
 
 ### Scripting
 ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-
+<br>
+<br>
 
 ## 🏃🏻‍♀️ 경력
 __오케스트로__   
@@ -44,7 +44,7 @@ __디케이테크인__
 - 업무용 웹페이지 개발 및 유지보수
 - 데이터센터 자산 관리
 <br>
-
+<br>
 
 ## 🗂️ Project
 __Kubernetes·솔루션 설치 자동화__   
@@ -93,6 +93,7 @@ __국방통합데이터센터__
 <br><br>
 __하나금융TI__   
 *2024.06 - 2024.10*   
+<img width="823" height="343" alt="gitlab-cicd" src="https://github.com/user-attachments/assets/487b6a31-b05a-4f9a-9e93-9176ae06d814" />
 반복되는 배포 작업의 불편함을 개선하고자 GitLab 기반 CI/CD 파이프라인 구축 및 배포 자동화를 기획하고 구현하여 배포 소요 시간을 70% 단축한 프로젝트입니다.
 - GitLab CI/CD 파이프라인 구축
   - GitLab 기반 파이프라인 기획 및 구성하여 배포마다 반복되는 패키징 작업과 파일 반입 절차를 간소화
@@ -103,7 +104,8 @@ __하나금융TI__
 - 인프라 구성 및 솔루션 배포
   - Kubernetes 클러스터 구축 및 솔루션 설치
 - 사용기술: Kubernetes, Ansible, Jenkins, Nexus, Harbor, SCM-Manager, SonarQube, GitLab, GitLab-runner
-
+<br>
+<br>
 
 ## ✏️ 자격증 및 교육
 [자격] __정보처리기사__   
