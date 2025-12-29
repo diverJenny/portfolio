@@ -93,8 +93,9 @@ __국방통합데이터센터__
 <br><br>
 __하나금융TI__   
 *2024.06 - 2024.10*   
-<img width="823" height="343" alt="gitlab-cicd" src="https://github.com/user-attachments/assets/487b6a31-b05a-4f9a-9e93-9176ae06d814" />
 반복되는 배포 작업의 불편함을 개선하고자 GitLab 기반 CI/CD 파이프라인 구축 및 배포 자동화를 기획하고 구현하여 배포 소요 시간을 70% 단축한 프로젝트입니다.
+Architecture   
+<img width="823" height="343" alt="gitlab-cicd" src="https://github.com/user-attachments/assets/487b6a31-b05a-4f9a-9e93-9176ae06d814" />   
 - GitLab CI/CD 파이프라인 구축
   - GitLab 기반 파이프라인 기획 및 구성하여 배포마다 반복되는 패키징 작업과 파일 반입 절차를 간소화
   - 배포 소요 시간 약 70% 단축
