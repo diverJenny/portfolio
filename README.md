@@ -103,7 +103,7 @@ __Architecture__
   - GitLab Runner 구성 및 .gitlab-ci.yml 스크립트를 통해 배포 안정성 향상
   - 장애 발생률 약 30% 감소 달성
 - 인프라 구성 및 솔루션 배포
-  - Kubernetes 클러스터 구축 및 솔루션 설치
+  - Kubernetes 클러스터 구축 및 자사 CI/CD 솔루션 설치
 - 사용기술: Kubernetes, Ansible, Jenkins, Nexus, Harbor, SCM-Manager, SonarQube, GitLab, GitLab-runner
 <br>
 <br>
