@@ -28,7 +28,7 @@ Kubernetes 설치 자동화와 솔루션 패키징을 수행하며 고객사 환
 
 ## 🏃🏻‍♀️ 경력
 __오케스트로__   
-*2023.06 - 재직중 (2년 7개월)* DevOps Engineer
+*2023.06 - 재직중 (2년 10개월)* DevOps Engineer
 - 대규모 OpenStack 기반 환경에서 Kubernetes 클러스터 설치 자동화 및 패키징·설치·검증
 - Kubernetes 기반 환경에 솔루션 패키징·설치·검증
 - Jenkins·ArgoCD 기반 CI/CD 파이프라인 운영
