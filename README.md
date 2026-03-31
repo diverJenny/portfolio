@@ -67,6 +67,16 @@ __CI/CD 운영 · 표준화__
 - 사용기술 : Jenkins, ArgoCD, GitOps
 
 <br><br>
+__한국은행__   
+*2026.02 - 현재*   
+자사 CI/CD 솔루션 설치와 검증을 수행한 프로젝트입니다.
+- Kubernetes 인프라 구축
+  - TUI 버전 Ansible 기반 Kubernetes 설치
+- 기존 Ingress 기반 서비스 노출 구조를 Istio Gateway/VirtualService 기반으로 전환하여 서비스별 트래픽 제어와 운영 일관성을 개선
+- Kubernetes 기반 CI/CD 플랫폼 구축 과정에서 Harbor, GitLab, SonarQube 등 주요 미들웨어를 HTTPS 기반으로 재구성하여 서비스 간 통신 보안과 운영 표준을 강화
+- 사용기술 : Kubernetes, Ansible, Helm, Nexus, Harbor, Sonarqube, Jenkins, GitLab, MinIO, Pro
+
+<br><br>
 __사회보장정보원__   
 *2025.12 - 2025.12*   
 자사 Openstack 솔루션 설치와 검증을 수행한 프로젝트입니다.
